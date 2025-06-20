@@ -427,3 +427,4 @@ function ProductPage() {
 - Skill gap identification in technical, conceptual, and process areas
 - Personalized learning path with 4 phases of improvement
 - Resource recommendations tailored to identified gaps
+<video controls src="backend/demo video/live working.mp4" title="Title"></video>
