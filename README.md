@@ -5,7 +5,7 @@
 The Industry-Readiness Combat Simulator is an AI-powered platform that helps final-year students assess their job readiness through realistic industry scenarios. The system uses 6 specialized AI agents working together to generate scenarios, evaluate responses, identify skill gaps, and recommend personalized training paths.
 
 ## 🏗️ System Architecture
-
+![alt text](image.png)
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                 FRONTEND (React + shadcn/ui)            │
