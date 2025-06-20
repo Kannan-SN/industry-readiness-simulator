@@ -448,19 +448,6 @@ GraphQL API Development,course,Build flexible APIs with GraphQL and Apollo,#,Gra
 Jupyter Notebooks,tutorial,Interactive data science with Jupyter notebooks,#,Jupyter Python data science notebooks analysis
 ```
 
-### students.csv (Optional)
-```csv
-id,name,role,skill_level,email
-1,John Smith,frontend,beginner,john.smith@example.com
-2,Sarah Johnson,backend,intermediate,sarah.j@example.com
-3,Mike Chen,data_analyst,beginner,mike.chen@example.com
-4,Emily Davis,fullstack,advanced,emily.d@example.com
-5,Alex Rodriguez,frontend,intermediate,alex.r@example.com
-6,Lisa Wang,backend,advanced,lisa.wang@example.com
-7,David Brown,data_analyst,intermediate,david.b@example.com
-8,Jessica Lee,fullstack,beginner,jessica.lee@example.com
-```
-
 ## 🔧 Configuration
 
 ### Environment Variables
