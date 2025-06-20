@@ -305,7 +305,7 @@ CORS_ORIGINS=http://localhost:5173
 ```bash
 cd backend
 python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
@@ -317,15 +317,7 @@ npm install
 
 ### Starting the Application
 
-**Option 1: Using startup script**
-```bash
-chmod +x start.sh
-./start.sh
-```
 
-**Option 2: Manual startup**
-```bash
-# Terminal 1: Backend
 cd backend
 source venv/bin/activate
 python main.py
