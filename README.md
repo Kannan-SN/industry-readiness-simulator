@@ -169,7 +169,6 @@ Student Profile → RAG Search → Context Retrieval → LLM Generation → Scen
 industry-readiness-simulator/
 ├── README.md                          # This file
 ├── .env                              # Environment variables
-├── start.sh                          # Startup script
 │
 ├── frontend/                         # React Application
 │   ├── src/
@@ -203,6 +202,9 @@ industry-readiness-simulator/
 │   ├── crew/                         # CrewAI Orchestration
 │   │   ├── simulator_crew.py         # Main orchestration logic
 │   │   └── tasks.py                  # Task definitions
+|   ├── resource/                         # CrewAI Orchestration
+│   │   ├── scenarios.csv        # Csv file for upload
+│   │   └── training_resources.csv                  # Csv file for upload
 │   │
 │   ├── database/                     # Weaviate Integration
 │   │   ├── weaviate_client.py        # Cloud connection
